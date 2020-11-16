@@ -1,7 +1,7 @@
----
+BROWSER-COIN--
 items:
  - ovity/octotree
- - mike-north/chrome-github-boxcutter
+ - mike-north/Browser-github-boxcutter
  - muan/github-dashboard
  - muan/github-gmail
  - thieman/github-selfies
